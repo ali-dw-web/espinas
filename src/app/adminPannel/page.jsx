@@ -388,13 +388,13 @@ export default function Admin() {
                         </div>
                     </div>
                     <div className="w-[100%] h-[100px] flex justify-center items-center">
-                        <div className="w-[40%] h-[50px] border bg-[#1e2430] flex justify-center items-center  shadow-[0_0px_5px_rgba(0,0,0,0.4)] border-[#3f3e3e] rounded-3xl overflow-hidden relative">
+                        <div className="lg:w-[40%] w-[98%] h-[50px] border bg-[#1e2430] flex justify-center items-center  shadow-[0_0px_5px_rgba(0,0,0,0.4)] border-[#3f3e3e] rounded-3xl overflow-hidden relative">
                             <input onChange={() => search(event)} onKeyDown={check} placeholder="Search" className=" pl-4 w-[100%] h-[100%] bg-[#e4e4e4] outline-0" type="text" />
 
                         </div>
                     </div>
                     <div className="w-[70%] h-[1px] mt-4 bg-[#9c9a9a] mx-auto"></div>
-                    <div className="w-[70%] min-h-[100px] mx-auto text-center text-[#000000] justify-center items-center  mt-5 flex flex-wrap ">
+                    <div className="lg:w-[70%] w-[98%] min-h-[100px] mx-auto text-center text-[#000000] justify-center items-center  mt-5 flex flex-wrap ">
                         <div ref={empty} className="  w-[100%] h-[50px]  hidden justify-center items-center ">موردی یافت نشد </div>
                         {
                             orders && orders.map((val, i) => {

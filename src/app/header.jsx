@@ -47,9 +47,7 @@ export default function Header() {
             setTimeout(() => {
                 router.push('./adminPannel')
             }, 3000)
-        } else {
-            alert('سیکتیر')
-        }
+        } 
 
 
 

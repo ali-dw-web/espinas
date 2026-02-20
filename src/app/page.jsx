@@ -368,15 +368,16 @@ function ImageSlider() {
         navigation
         spaceBetween={30}
         slidesPerView={1}
+        
       >
         <SwiperSlide >
-          <img className="w-[100%] h-[100vh]" src="/images/bc1.jpg" alt="slide 1" />
+          <img className="w-[100%] h-[100vh] object-cover object-center" src="/images/bc1.jpg" alt="slide 1" />
         </SwiperSlide>
         <SwiperSlide>
-          <img className="w-[100%] h-[100vh]" src="/images/bc2.jpg" alt="slide 2" />
+          <img className="w-[100%] h-[100vh] object-cover object-center" src="/images/bc2.jpg" alt="slide 2" />
         </SwiperSlide>
         <SwiperSlide>
-          <img className="w-[100%] h-[100vh]" src="/images/bc3.jpg" alt="slide 3" />
+          <img className="w-[100%] h-[100vh] object-cover object-center" src="/images/bc3.jpg" alt="slide 3" />
         </SwiperSlide>
         <div className="absolute left-10 top-50 z-10  w-[100px]  h-[100px] border hidden lg:block" >
           <Image src='https://espinashotels.com/wp-content/uploads/2025/04/promotion-block-skylounge-blvd.png'
