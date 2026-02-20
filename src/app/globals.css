@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+@font-face {
+  font-family: 'IranSans';
+  src: url('/fonts/IranSans.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+   font-family: 'Vazirmatn', 'jost';
+   font-feature-settings: 'ss01';
+   
+   
+}
+#imp>option:hover{
+  background-color: red;
+}
+
+
+.swip{
+  border: 1px solid black;
+}
+.select1_state , .dates{
+  display : none;
+}
+.iconchev{
+  transform: rotate(-90deg);
+}
+.right_menu_slide{
+  
+  right: 0px;
+}
+.left_menu_slide{
+
+  left: 0px;
+}
+.removeSideMenu{
+  position: fixed;
+  z-index: 55;
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.534);
+}
+.scroll_rightImg{
+  transform: translateX(150px);
+}
+.scroll_leftImg{
+  transform: translateX(150px);
+}
+.main{
+  overflow-y: scroll;
+}
+.scroll-width-none{
+  scrollbar-width: none;
+}
+@keyframes Fadein {
+  0%{
+    right: 15px;
+  }
+  90%{
+    right: 8px;
+  }
+  100%{
+    right: 10px;
+  }
+}
+.loginmenu{
+  right: 0px;
+}
+
