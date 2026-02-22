@@ -46,4 +46,15 @@ The Admin Panel is divided into three main parts:
   🏨 Rooms
 <img width="1366" height="629" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/31cbdd6a-1857-4009-9178-b7d34df946d6" />
 
+## 📦 Reservations Section – Detailed View
+
+Here you can see the step-by-step details of the reservations/orders process:
+
+### 🔍 Reservation Details
+<img width="1366" height="649" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/91958ca6-6892-40e0-8a1b-69b2bed9f0f7" />
+
+
+### 💳 Selected Items – Checkout Preview
+<img width="1366" height="645" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/76679d52-cdea-41da-ad28-bc3587da58de" />
+
 
