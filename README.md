@@ -52,12 +52,13 @@ Here you can see the step-by-step details of the reservations/orders process:
 
 ### 🔍 Reservation Details
 
-<img width="1366" height="649" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7dee6283-ce8c-41df-9eb6-9b0ebb5c00b1" />
+<img width="1366" height="649" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/eb228320-5b3b-48bf-82a1-0848d85db15c" />
+
 
 
 ### 💳 Selected Items – Checkout Preview
 
-<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1e0f34b2-a5a5-4e9b-ac3a-5724cf6efaee" />
+<img width="1366" height="559" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/a31601ed-2f75-4ed7-a457-532aed042534" />
 
 ## 🛠 Tech Stack
 
