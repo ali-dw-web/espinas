@@ -33,3 +33,5 @@ This section allows the administrator to manage users, products and orders.
 
 2. Select the **"Admin"** option  
 3. Now you are inside the **Admin Panel**
+<img width="1366" height="645" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/401303c3-605d-4108-a493-fc7b7529eda6" />
+
