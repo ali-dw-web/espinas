@@ -2,4 +2,7 @@
 
 > A modern web application built with Next.js & React
 <img width="1366" height="641" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/5599be6a-aca1-4089-b0d4-b5d148cb2b32" />
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+---
+
+## 🛒 Products Section
+Here users can browse and filter products.
