@@ -51,11 +51,29 @@ The Admin Panel is divided into three main parts:
 Here you can see the step-by-step details of the reservations/orders process:
 
 ### 🔍 Reservation Details
-<img width="1366" height="649" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/91958ca6-6892-40e0-8a1b-69b2bed9f0f7" />
+
+<img width="1366" height="649" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/7dee6283-ce8c-41df-9eb6-9b0ebb5c00b1" />
 
 
 ### 💳 Selected Items – Checkout Preview
 
 <img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1e0f34b2-a5a5-4e9b-ac3a-5724cf6efaee" />
+
+## 🛠 Tech Stack
+
+This project is built using modern technologies:
+
+- ⚛️ **React** – For building interactive user interfaces  
+- ⬆️ **Next.js** – Server-side/Client-Side rendering and many Static/Dynamic routing  
+- 🎨 **Tailwind CSS** – Stylish and responsive design  
+- 💾 **JavaScript** – Core programming logic  
+- 🗄 **Mock API – Data handling for rooms, orders, and users
+
+---
+
+## 🌍 Live Demo
+
+Check out the live version of the project here:  
+🔗 [View Live Demo](https://espinas.vercel.app/)
 
 
