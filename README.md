@@ -26,3 +26,10 @@ This section allows the administrator to manage users, products and orders.
 - ✏️ Edit complete room information  
 - 🗑 Delete existing rooms  
 - 🔄 All changes are instantly reflected on the main website
+- 
+- ## 🔑 How to Access the Admin Panel
+
+1. Click on **"ورود همکار"** on the main page  <img width="65" height="38" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/1e7d7e73-81e1-453f-a01d-6e715ee9c1f7" />
+
+2. Select the **"Admin"** option  
+3. Now you are inside the **Admin Panel**
