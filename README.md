@@ -55,6 +55,7 @@ Here you can see the step-by-step details of the reservations/orders process:
 
 
 ### 💳 Selected Items – Checkout Preview
-<img width="1366" height="645" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/76679d52-cdea-41da-ad28-bc3587da58de" />
+
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1e0f34b2-a5a5-4e9b-ac3a-5724cf6efaee" />
 
 
