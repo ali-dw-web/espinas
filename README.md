@@ -1,3 +1,9 @@
+## 🌍 Live Demo
+
+Check out the live version of the project here:  
+🔗 [View Live Demo](https://espinas.vercel.app/)
+
+
 # 🚀 An Awesome Project
 
 > A modern web application built with Next.js & React
@@ -72,9 +78,5 @@ This project is built using modern technologies:
 
 ---
 
-## 🌍 Live Demo
-
-Check out the live version of the project here:  
-🔗 [View Live Demo](https://espinas.vercel.app/)
 
 
