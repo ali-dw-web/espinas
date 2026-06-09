@@ -110,7 +110,7 @@ export default function Main() {
         <div data-aos='fade-down' className="w-[80%] lg:w-[90%]   h-[110%]  rounded-2xl bg-[#ececec] flex flex-wrap  justify-center items-center">
 
           <div onClick={open2} className="w-[470px] lg:w-[370px] h-[70px] mt-[30px] lg:mt-0 relative">
-            <div className=" bg-[red] dates absolute lg:top-18 bottom-18 z-50   right-10 w-[350px] h-[auto] border z-[989999999898999898998]">
+            <div className=" bg-[red] dates absolute lg:top-18 bottom-18 z-50   right-10 w-[350px] bg-[black] h-[auto] border z-[9899998]">
               <div onClick={select2} className="flex justify-end items-center bg-[white] pr-[5px] w-[100%] duration-300  hover:bg-[#4343ad] hover:text-[white] text-[black] h-[40px] border">{dateone + '-' + datetwo}</div>
               <div onClick={select2} className="flex text-[black] justify-end items-center bg-[white] pr-[5px] w-[100%] duration-300 hover:bg-[#4343ad] hover:text-[white] h-[40px] border">{datetwo + '-' + datethree}</div>
               <div onClick={select2} className="flex text-[black] justify-end items-center bg-[white] pr-[5px] w-[100%] duration-300 hover:bg-[#4343ad] hover:text-[white] h-[40px] border">{datethree + '-' + datefour}</div>
